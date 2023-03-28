@@ -2,4 +2,4 @@
 
  Aqui podras encontrar todo el codigo que he ido aprendiendo y los proyectos en los que estoy trabajando.
 
-![https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.webdisenoempresarial.com%2Feconomicas%2Fimages%2Fsliders%2F3.jpg&f=1&nofb=1&ipt=87dd89f5e280b4fcb759830c38aa3a395e01c5979893e2bc75a945ce9b21d374&ipo=images]
+![] (https://duckduckgo.com/?q=+dise%C3%B1o+web&atb=v314-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fquitowebs.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fblog-1.jpg)
